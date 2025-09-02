@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "frappe_lms"
-app_title = "Frappe LMS"
-app_publisher = "Frappe"
-app_description = "Frappe LMS App"
+app_title = "iCanCare Learning"
+app_publisher = "Dwrko Technologies"
+app_description = "Healthcare Learning Management System by iCanCare"
 app_icon_url = "/assets/lms/images/lms-logo.png"
 app_icon_title = "Learning"
 app_icon_route = "/lms"
