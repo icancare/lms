@@ -243,7 +243,7 @@ on_login = "lms.lms.user.on_login"
 add_to_apps_screen = [
 	{
 		"name": "lms",
-		"logo": "/assets/lms/frontend/learning.svg",
+		"logo": "/assets/icancare_custom/icancare-logo.png",
 		"title": "Learning",
 		"route": "/lms",
 		"has_permission": "lms.lms.api.check_app_permission",
